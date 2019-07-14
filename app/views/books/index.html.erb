@@ -1,0 +1,9 @@
+<h1>Books</h1>
+
+<% @books.each do |book| %>
+  <section id='book-<%= book.id%>'>
+  <h2><%= book.title %></h2>
+  <p><%= book.pages %></p>
+  <p><%= book.publication %></p>
+  <p><%= book.authors.name %></p>
+<% end %>
