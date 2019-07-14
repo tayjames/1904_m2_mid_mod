@@ -181,10 +181,23 @@
       "/Users/tayjames/turing/2module/assessments/1904_m2_mid_mod/midmod/config/routes.rb": [
         1,
         null,
+        null,
+        1,
+        null,
         null
       ],
       "/Users/tayjames/turing/2module/assessments/1904_m2_mid_mod/midmod/app/helpers/application_helper.rb": [
         1,
+        null
+      ],
+      "/Users/tayjames/turing/2module/assessments/1904_m2_mid_mod/midmod/spec/models/author_book_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
         null
       ],
       "/Users/tayjames/turing/2module/assessments/1904_m2_mid_mod/midmod/app/models/author_book.rb": [
@@ -245,8 +258,27 @@
         null,
         null,
         null
+      ],
+      "/Users/tayjames/turing/2module/assessments/1904_m2_mid_mod/midmod/app/controllers/books_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/tayjames/turing/2module/assessments/1904_m2_mid_mod/midmod/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1563065672
+    "timestamp": 1563073130
   }
 }
